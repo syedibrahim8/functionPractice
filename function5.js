@@ -20,7 +20,7 @@ let marks = (n) =>{
         console.log("You failed!");
     }
 }
-marks(83);
+marks(75);
 
 //
 
@@ -39,7 +39,7 @@ let fever = (temp)=>{
         console.log("Normal temperature");
     }
 }
-fever(104);
+//fever(104);
 
 //
 
@@ -48,4 +48,4 @@ let table = (n)=>{
     console.log(`${n} X ${i} = ${i*n}`)
     }
 }
-table(18);
+//table(18);

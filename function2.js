@@ -22,7 +22,7 @@ function fever (temp){
         console.log("Normal temperature");
     }
 }
-//fever(105);
+fever(100);
 
 // example 2
 
@@ -31,7 +31,7 @@ function table (n){
     console.log(`${n} X ${i} = ${i*n}`)
     }
 }
-//table(13);
+//table(9);
 
 // example 3 
 
@@ -42,4 +42,4 @@ function factorial(n){
     }
     console.log(fact);
 }
-factorial(6)
+//factorial(6)

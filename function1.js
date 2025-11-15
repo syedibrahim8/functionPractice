@@ -2,13 +2,13 @@
 
 // example
 function greet(){
-    console.log("Hi everyone");
+    console.log("Hi mateen");
 }
-// greet();
+greet();
 
 // example 1
 function trafficLight(){
-    let color = "green";
+    let color = "red";
     if(color == "red"){
         console.log("Stop immediately.");
     }
@@ -23,7 +23,7 @@ function trafficLight(){
     }
 
 }
-//trafficLight();
+trafficLight();
 
 // example 2 
 
@@ -32,7 +32,7 @@ function table(){
     console.log(`6 X ${i} = ${i*6}`);
     }
 }
-//table();
+table();
 
 // example 3
 
